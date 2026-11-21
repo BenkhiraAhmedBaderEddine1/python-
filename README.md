@@ -97,3 +97,12 @@ name = "Ahmed"
 age = 23
 country = "Algeria"
 height = 1.78
+
+Let's understand:
+Variable	Value	Data
+name	Ahmed	Text
+age	23	Integer
+country	Algeria	Text
+height	1.78	Decimal
+
+We can display variables using print():
