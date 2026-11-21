@@ -78,3 +78,8 @@ print("Hello!")
 
 # This line calculates a mathematical operation
 print(10 + 20)
+
+
+Output:
+Hello!
+30
