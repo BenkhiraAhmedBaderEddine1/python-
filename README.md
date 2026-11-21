@@ -92,3 +92,8 @@ A variable is a named reference to a value stored in memory.
 Think of a variable as a label associated with information.
 
 For example:
+
+name = "Ahmed"
+age = 23
+country = "Algeria"
+height = 1.78
