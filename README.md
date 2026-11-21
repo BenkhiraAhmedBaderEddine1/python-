@@ -83,3 +83,12 @@ print(10 + 20)
 Output:
 Hello!
 30
+
+Comments are useful for explaining complicated code and documenting projects.
+5. Python variables
+Very important concept
+A variable is a named reference to a value stored in memory.
+
+Think of a variable as a label associated with information.
+
+For example:
