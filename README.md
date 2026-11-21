@@ -1,8 +1,6 @@
 1. What is Python?
 Python is a high-level, general-purpose programming language.
-
 It allows us to communicate instructions to a computer.
-
 For example, imagine you want a computer to:
 - Calculate mathematical equations.
 - Analyze engineering data.
@@ -21,30 +19,10 @@ Open source	Free to use
 Libraries	Thousands of reusable tools
 
 2. Install Python and prepare your environment
-
-
-
-
-
-
-
-
-
-
 Python
 
 Programming language interpreter
 Download Python
-
-
-
-
-
-
-
-
-
-
 
 Visual Studio Code
 
