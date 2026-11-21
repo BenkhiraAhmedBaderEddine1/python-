@@ -106,3 +106,9 @@ country	Algeria	Text
 height	1.78	Decimal
 
 We can display variables using print():
+
+name = "Ahmed"
+age = 23
+
+print(name)
+print(age)
