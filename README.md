@@ -39,3 +39,4 @@ After installation:
 5. Write your first Python program.
 3. Your first Python program
 Let's start with the most famous programming example.
+print("Hello, World!")
