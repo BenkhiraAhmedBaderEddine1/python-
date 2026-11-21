@@ -145,3 +145,50 @@ first_name = "Ahmed"age = 23student_grade = 15.5
 
 
 Incorrect:
+
+Python is case-sensitive:
+name = "Ahmed"Name = "Mohamed"print(name)print(Name)
+
+
+
+These are two different variables.
+6. Basic data types
+Python has several fundamental data types.
+1. Integer (int)
+
+Whole numbers without decimal points.
+age = 23temperature = -5quantity = 100
+
+
+
+
+
+2. Float (float)
+
+Numbers with decimal points.
+price = 19.99voltage = 220.5pi = 3.14159
+
+
+
+
+
+3. String (str)
+
+Text enclosed in quotation marks.
+name = "Ahmed"university = "IGEE"language = "Python"
+
+
+
+
+
+4. Boolean (bool)
+
+Logical values: True or False.
+is_student = Trueis_graduated = False
+
+
+
+
+
+How can we identify a variable's data type?
+We use the built-in type() function.
