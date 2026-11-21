@@ -202,3 +202,13 @@ print(type(age))
 print(type(height))
 print(type(name))
 print(type(is_student))
+Output:
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+
+
+Remember these four types. You'll use them constantly.
+7. Basic mathematical operations
+Python can work as a powerful calculator.
