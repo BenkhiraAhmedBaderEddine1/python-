@@ -112,3 +112,26 @@ age = 23
 
 print(name)
 print(age)
+
+Output:
+Ahmed
+23
+
+
+We can also combine variables:
+name = "Ahmed"age = 23print("My name is", name)print("My age is", age)
+
+
+
+Output:
+My name is Ahmed
+My age is 23
+
+
+Important variable naming rules
+Correct:
+first_name = "Ahmed"age = 23student_grade = 15.5
+
+
+
+Incorrect:
