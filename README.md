@@ -212,3 +212,26 @@ Output:
 Remember these four types. You'll use them constantly.
 7. Basic mathematical operations
 Python can work as a powerful calculator.
+
+Operator	Meaning	Example	Result
++	Addition	10 + 5	15
+-	Subtraction	10 - 5	5
+*	Multiplication	10 * 5	50
+/	Division	10 / 5	2.0
+//	Floor division	11 // 2	5
+%	Modulus (remainder)	11 % 2	1
+**	Power	2 ** 3	8
+
+Try this program:
+a = 10b = 3print(a + b)print(a - b)print(a * b)print(a / b)print(a // b)print(a % b)print(a ** b)
+
+
+
+Output:
+13
+7
+30
+3.3333333333333335
+3
+1
+1000
