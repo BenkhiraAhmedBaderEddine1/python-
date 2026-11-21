@@ -192,3 +192,13 @@ is_student = Trueis_graduated = False
 
 How can we identify a variable's data type?
 We use the built-in type() function.
+
+age = 23
+height = 1.78
+name = "Ahmed"
+is_student = True
+
+print(type(age))
+print(type(height))
+print(type(name))
+print(type(is_student))
