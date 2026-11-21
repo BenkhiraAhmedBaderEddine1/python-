@@ -39,4 +39,36 @@ After installation:
 5. Write your first Python program.
 3. Your first Python program
 Let's start with the most famous programming example.
+
+
 print("Hello, World!")
+
+Output:
+Hello, World!
+
+
+Congratulations! This is your first Python instruction.
+Understanding the code
+Let's break it down:
+- print → A built-in Python function.
+- () → Parentheses contain the information passed to the function.
+- "Hello, World!" → A string (text).
+- The computer displays the text in the terminal.
+Another example:
+print("My name is Ahmed")print("I am learning Python")print("My goal is to become a professional engineer")
+
+
+
+Output:
+My name is Ahmed
+I am learning Python
+My goal is to become a professional engineer
+
+
+Important: Python executes instructions sequentially, meaning from top to bottom.
+4. Comments in Python
+Comments are notes written inside your code.
+
+Python ignores comments when executing your program.
+
+We use the # symbol.
