@@ -4,6 +4,8 @@
 
 
 
+
+
 1. What is Python?
 Python is a high-level, general-purpose programming language.
 It allows us to communicate instructions to a computer.
