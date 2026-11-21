@@ -72,3 +72,9 @@ Comments are notes written inside your code.
 Python ignores comments when executing your program.
 
 We use the # symbol.
+# This is my first Python program
+
+print("Hello!")
+
+# This line calculates a mathematical operation
+print(10 + 20)
